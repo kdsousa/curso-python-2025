@@ -1,0 +1,11 @@
+id_venda;data;cliente;produto;categoria;quantidade;valor_unitario;total
+1;2024-03-01;Ana Silva;Smartphone;Eletrônicos;1;1500,00;1500,00
+2;2024-03-01;Bruno Costa;Monitor 24";Informática;2;800,00;1600,00
+3;2024-03-02;Carla Souza;Cadeira Gamer;Móveis;1;1200,00;1200,00
+4;2024-03-02;Daniel Oliveira;Teclado Mecânico;Informática;1;350,00;350,00
+5;2024-03-03;Fernanda Lima;Fone Bluetooth;Acessórios;3;150,00;450,00
+6;2024-03-04;Gabriel Santos;Mouse Wireless;Informática;2;120,00;240,00
+7;2024-03-05;Helena Rocha;Mesa de Escritório;Móveis;1;600,00;600,00
+8;2024-03-05;Igor Batista;Webcam HD;Informática;1;280,00;280,00
+9;2024-03-06;Juliana Paiva;Suporte Monitor;Acessórios;2;90,00;180,00
+10;2024-03-07;Lucas Mendes;Notebook Pro;Informática;1;4500,00;4500,00
